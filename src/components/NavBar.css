@@ -1,0 +1,24 @@
+.navbar-background{
+    height: 50px;
+    background: url(https://d15boxbdv4z6lv.cloudfront.net/main_bg.jpg) center top / cover no-repeat rgb(20, 20, 20) !important;
+}
+.match-nav{
+    color: #b5b5b5;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    align-items: center;
+    display: flex;
+    gap:5px;
+
+}
+.match-nav:hover{
+    color: white;
+}
+.text-yellow{
+    color: yellow;
+}
+.right-nav{
+    text-transform: capitalize;
+    color: #18bcef;
+}

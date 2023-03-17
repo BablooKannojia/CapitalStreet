@@ -1,0 +1,25 @@
+.match-head{
+    text-align: center;
+    color: #eee;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.main-container{
+    background: url(https://d15boxbdv4z6lv.cloudfront.net/main_bg.jpg) center top / cover no-repeat rgb(20, 20, 20);
+    background-size: cover;
+}
+.text-para{
+   color: #bfbfbf;
+}
+.btn-league-code{
+    background: 0 0!important;
+    color: #74a9c0!important;
+    border-color: #426e86!important;
+}
+.got-league-code{
+    right: 4%;
+    top: 20%;
+}
+.match-location{
+   margin-right: 5px;
+}

@@ -1,0 +1,40 @@
+.content-card{
+    background: rgba(28,33,39,.5)!important;
+}
+p{
+    color: #bcbcbc !important;
+    font-weight: 600 !important;
+}
+.match-head{
+    color: #bcbcbc !important;
+    font-weight: 600 !important;
+}
+.close-league-color{
+    color: #AC7D68 !important;
+    text-align: left !important;
+    justify-content: start !important;
+}
+.league-close{
+    text-align: left !important;
+}
+.halatab button{
+    width: 80% !important;
+    background: rgba(28,33,39,.5)!important;
+    color: white;
+}
+.halatab button:active{
+    color: white !important;
+    border: none !important;
+}
+.halatab li.nav-item {
+    width: 30%;
+}
+.halatab{
+    border:none !important;
+}
+.content-card.p-5 {
+    width: 32% !important;
+}
+.lobby-text{
+    color: rgb(46, 100, 114);
+}
